@@ -1,0 +1,4 @@
+
+[squid:S1854"8Remove this useless assignment to local variable "file".(€§¶‚üÿÿÿÿ8«ë‰î•-
+_squid:UselessImportCheck	"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8«ë‰î•-
+Lsquid:S1481")Remove this unused "file" local variable.(€§¶‚üÿÿÿÿ8«ë‰î•-
