@@ -9,3 +9,7 @@ Only alphanumeric characters are shown in histogram.
 No magic number check if done on file, so it only accepts pdf.
 
 When run, you should see a histogram in the output.
+
+EDIT:
+
+Now the program accepts input file path using standard input. However, full file path is required.
